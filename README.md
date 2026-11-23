@@ -11,7 +11,7 @@
 
 ### 1. Скачай установщик
 
-Свежий официальный установщик **FirmyLauncher-Setup-4.0.1.exe** обычно есть на странице [Релиза 4.0.1](https://github.com/Dooyfil/FirmyLauncher/releases/tag/v4.0.1) или внизу страницы.
+Свежий официальный установщик обычно есть на странице [Релиза](https://github.com/Dooyfil/FirmyLauncher/releases) или внизу страницы — `FirmyLauncher-Setup-4.0.2.exe`.
 
 > Обновления проверяются прямо в лаунчере — при запуске и периодически. Будущие релизы выходят как GitHub-релизы и находятся здесь, в этом репозитории: https://github.com/Dooyfil/FirmyLauncher/releases
 
@@ -28,7 +28,7 @@
 
 ---
 
-## ✨ Что умеет FirmyLauncher 4.0.1
+## ✨ Что умеет FirmyLauncher
 
 ### 🌍 Все версии Minecraft
 
