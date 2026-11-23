@@ -3,7 +3,7 @@
 Файл лаунчера с поддержкой автообновлений официально появился на GitHub! FirmyLauncher 4.0.1 — устанавливать можно прямо оттуда, обновляться автоматически из релизов.
 
 🔗 Репозиторий лаунчера: https://github.com/Dooyfil/FirmyLauncher
-🔗 Скачать / обновить: https://github.com/Dooyfil/FirmyLauncher/releases
+🔗 Скачать / обновить вручную: https://github.com/Dooyfil/FirmyLauncher/releases
 
 Почему круто:
 ✅ Установщик с автообновлениями — проверка в лаунчере, SHA-1, тихая установка
