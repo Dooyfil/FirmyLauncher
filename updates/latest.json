@@ -1,6 +1,6 @@
 {
-  "version": "4.0.2",
-  "url": "https://github.com/Dooyfil/FirmyLauncher/releases/download/v4.0.2/FirmyLauncher-Setup-4.0.2.exe",
-  "sha1": "c69d163c12bb4ee02e667779386cdf6165bf0b2d",
-  "notes": "FirmyLauncher 4.0.2 — обновление с исправлением ошибок."
+  "version": "4.0.3",
+  "url": "https://github.com/Dooyfil/FirmyLauncher/releases/download/v4.0.3/FirmyLauncher-Setup-4.0.3.exe",
+  "sha1": "98f7c5516a99f41d4e3ee3955ae19a1edb0f9778",
+  "notes": "FirmyLauncher 4.0.3 — обновления ставятся в папку лаунчера."
 }
